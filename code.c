@@ -3,7 +3,7 @@ void Hello(void){
 }
 
 void goodday(void){
- print("goodday")
+ print("goodday");
 }
 
 void goodbye(void){
