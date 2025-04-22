@@ -1,3 +1,8 @@
 void Hello(void){
- print("hello")
+ print("hello");
 }
+
+void goodbye(void){
+ print("goodbye");
+}
+
